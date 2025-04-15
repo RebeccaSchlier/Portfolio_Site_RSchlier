@@ -1,3 +1,6 @@
+html{
+	background-color: #C9E7CD;
+}
 * {
   box-sizing: border-box;
 	}
@@ -31,22 +34,26 @@ body {
 }
 
 .header {
-  background-color: #f1f1f1;
   padding: 30px;
   text-align: center;
   font-size: 30px;
 }
 .content {
   background-color: #ddd;
-  padding: 10px;
-  height: 200px; 
+  height: 800px; 
+margin-top: 20px;
 }
 
 .footer {
-  background-color: #f1f1f1;
   padding: 10px;
+	padding-top: 20px;
   text-align: center;
+	 bottom: 0;
+	margin-top:20%; 
+	background-color: #246158;
+	color: #DCBC6C;
 }
+
 
 /* Responsive layout */
 @media (max-width: 900px) {
