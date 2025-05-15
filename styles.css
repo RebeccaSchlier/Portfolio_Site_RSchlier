@@ -43,13 +43,21 @@ body {
   height: 800px; 
 margin-top: 20px;
 }
+.gamesection{
+	
+	text-align: left;
+	padding-right: 20%;
+	padding-left: 20%;
+	padding-bottom: 20px;
+}
+
 
 .footer {
   padding: 10px;
 	padding-top: 20px;
   text-align: center;
 	 bottom: 0;
-	margin-top:20%; 
+	margin-top:2%; 
 	background-color: #246158;
 	color: #DCBC6C;
 }
